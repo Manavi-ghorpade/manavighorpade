@@ -36,6 +36,7 @@ a:hover {
 }
 
 .company-logo {
+  margin-right: 15px;
   width: 100px;   /* Adjust the width as needed */
   height: 100px;  /* Adjust the height as needed */
   object-fit: cover; /* Maintains the aspect ratio and fills the container */
