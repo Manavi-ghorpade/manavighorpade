@@ -35,6 +35,12 @@ a:hover {
   transition: all 0.5s ease-in-out;
 }
 
+.company-logo {
+  width: 100px;   /* Adjust the width as needed */
+  height: 100px;  /* Adjust the height as needed */
+  object-fit: cover; /* Maintains the aspect ratio and fills the container */
+}
+
 .p-r {
   position: relative;
 }
