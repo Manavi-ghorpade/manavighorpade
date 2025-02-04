@@ -10,7 +10,7 @@
 # General
 --------------------------------------------------------------*/
 body {
-  background-color: #f7c6d3;
+  background-color: #f7c6d3 !important;
   color: #4e4e4e;
 }
 
