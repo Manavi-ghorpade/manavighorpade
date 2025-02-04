@@ -42,6 +42,10 @@ a:hover {
   object-fit: cover; /* Maintains the aspect ratio and fills the container */
 }
 
+#main {
+    background-color: #f7c6d3;  /* Light baby pink */
+}
+
 .p-r {
   position: relative;
 }
